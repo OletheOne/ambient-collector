@@ -4,4 +4,4 @@
 ##Run 'python ambient_visualizer.py'
 ###Wait ofr it to build the font cache
 
-#digital_mood_ring.py needs continuation and some work (check the errors first)
+#digital_mood_ring.py is the latest version. Get started on flow_tracker.py using ambient-collector in CLaude
