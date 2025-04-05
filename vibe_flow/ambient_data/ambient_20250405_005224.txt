@@ -1,0 +1,6 @@
+timestamp: 20250405_005224
+platform: macOS-14.4.1-arm64-arm-64bit-Mach-O
+cpu_percent: 25.0
+memory_percent: 80.3
+battery: None
+running_processes: 338
